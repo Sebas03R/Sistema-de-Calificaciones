@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKNzrrYRO1qFyvwgIII2Wk29NDlQb6ybxcH+0VR/Df/vzHKaWU5y40xmwR2vnTjh/wKMVRtukIP0LMFT5gaQ9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deadz\\source\\repos\\Sistema de calificaciones\\Sistema de calificaciones\\Sistema de calificaciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deadz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\deadz\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\deadz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\deadz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

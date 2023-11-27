@@ -1,0 +1,14 @@
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\bin\Debug\net7.0\Sistema de calificaciones.exe
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\bin\Debug\net7.0\Sistema de calificaciones.deps.json
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\bin\Debug\net7.0\Sistema de calificaciones.runtimeconfig.json
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\bin\Debug\net7.0\Sistema de calificaciones.dll
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\bin\Debug\net7.0\Sistema de calificaciones.pdb
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\Sistema de calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\Sistema de calificaciones.AssemblyInfoInputs.cache
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\Sistema de calificaciones.AssemblyInfo.cs
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\Sistema de calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\Sistema de calificaciones.dll
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\refint\Sistema de calificaciones.dll
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\Sistema de calificaciones.pdb
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\Sistema de calificaciones.genruntimeconfig.cache
+C:\Users\deadz\source\repos\Sistema de calificaciones\Sistema de calificaciones\obj\Debug\net7.0\ref\Sistema de calificaciones.dll
