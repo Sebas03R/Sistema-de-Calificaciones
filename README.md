@@ -7,7 +7,7 @@ Este es un programa simple de consola en C# para gestionar calificaciones de est
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/TuUsuario/TuRepositorio.git
+    git clone https://github.com/Sebas03R/Sistema-de-Calificaciones.git
     ```
 
 2. Abre el proyecto en tu entorno de desarrollo preferido (por ejemplo, Visual Studio).
@@ -28,7 +28,3 @@ Este es un programa simple de consola en C# para gestionar calificaciones de est
 ## Contribuciones
 
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar el programa, siéntete libre de abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
